@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+  color: purple;
+}
+p {
+  font-size: 20px;
+}
+.caption {
+  margin-left: 210px;
+}
+.intro {
+  text-align: center;
+}
+.titles {
+  margin-left: 175px;
+  font-family:cursive;
+  font-size: 40px;
+}
+.interior {
+  margin-left: 200px;
+  padding-top: 45px;
+  padding-bottom: 35px;
+}
+#home {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#copyright {
+  text-align: center;
+  margin-top: 50px;
+}
